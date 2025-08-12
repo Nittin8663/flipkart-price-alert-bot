@@ -1,0 +1,4 @@
+{
+    "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "check_interval_minutes": 60
+}
